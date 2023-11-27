@@ -87,3 +87,44 @@ The repeat() method creates a new string by repeating the given string a specifi
 # Primer:
 
 ![](Снимок%20экрана%202023-11-23%20153740.png)
+
+
+>
+
+# JavaScript Number methods
+
+## JavaScript Number methods Math.round(),ceil(),floo()
+  
+  ## The Math.floor() function rounds down a number to the next smallest integer
+
+  ![](./floor.png)
+
+>
+
+  ## The Math.round() function returns the number rounded to the nearest integer.
+
+  ![](./round.png)
+
+  >
+
+  ## The Math.ceil() method rounds a decimal number up to the next largest integer and returns it.
+
+  ![](./ceil.png)
+  >
+
+  ## JavaScript Number methods Math.max() and Math.min()
+  ![](./max%20and%20min.png)
+  >
+
+  ## JavaScript Number methods Math.pow() and Math.sqrt()
+  ![](./pow%20and%20sqrt.png)
+
+  >
+
+  ## JavaScript String method Math.abs() and Math.random()
+
+  ![](./abc%20and%20random.png)
+  >
+
+  ## JavaScript Number method isNaN()
+  ![](./isNaN.png)
