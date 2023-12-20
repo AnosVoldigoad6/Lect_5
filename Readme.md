@@ -1,5 +1,8 @@
 # JavaScript  String
+## What is string JS?
+## Introduction. A string is a sequence of one or more characters that may consist of letters, numbers, or symbols. Strings in JavaScript are primitive data types and immutable, which means they are unchanging.
 ## Create st r ing in JavaScript
+
 ![](./Снимок%20экрана%202023-11-22%20170504.png)
 
 ## JAVA SCRIPT STRING METHODS
@@ -89,7 +92,11 @@ The repeat() method creates a new string by repeating the given string a specifi
 ![](Снимок%20экрана%202023-11-23%20153740.png)
 
 
->
+
+
+
+
+
 
 # JavaScript Number methods
 
